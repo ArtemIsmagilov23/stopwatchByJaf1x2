@@ -1,0 +1,16 @@
+.stopwatch{
+    height: 100vh;
+    background-color: blueviolet;
+    margin-left: 0%;
+  
+}
+.container{
+    width: 800px;
+    min-width: 600px;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: white;
+    box-shadow: 0 0 35px 2px rgb(45, 29,70);
+    display: flex;
+    justify-content: center;
+}
